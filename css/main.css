@@ -9,7 +9,7 @@ textarea {
 }
 
 html {
-    font-size: 1em;
+    font-size: 16px;
     line-height: 1.4;
 }
 
@@ -61,8 +61,101 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+.color1 {
+    background-color: red;
+}
 
+.color2 {
+    background-color: blue;
+}
 
+.color3 {
+    background-color: yellow;
+}
+
+.color4 {
+    background-color: green;
+}
+
+.color5 {
+    background-color: gray;
+}
+
+.color6 {
+    background-color: navy;
+}
+
+.color7 {
+    background-color: orange;
+}
+
+.color8 {
+    background-color: black;
+}
+
+.color9 {
+    background-color: aqua;
+}
+
+.color10 {
+    background-color: gold;
+}
+
+.color11 {
+    background-color: cyan;
+}
+
+.color12 {
+    background-color: fuchsia;
+}
+
+.color13 {
+    background-color: violet;
+}
+
+.color14 {
+    background-color: tomato;
+}
+
+.color15 {
+    background-color: tan;
+}
+
+.color16 {
+    background-color: purple;
+}
+
+.color17 {
+    background-color: silver;
+}
+
+.color18 {
+    background-color: pink;
+}
+
+header {
+    background-color: black;
+}
+
+.texto {
+    color: white;
+    font-family: 'Tangerine', serif;
+    font-size: 48px;
+    text-shadow: 4px 4px 4px #aaa;
+}
+
+.tamtex1 {
+    font-size: 50px;
+}
+
+.tamtex2 {
+    font-size: 30px;
+}
+
+.centrar {
+    padding-top: 45px;
+    padding-left: 100px;
+}
 
 
 
