@@ -61,7 +61,7 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
-/*
+
 .color1 {
     background-color: red;
 }
@@ -74,10 +74,13 @@ textarea {
     background-color: yellow;
 }
 
+.texto-color3 {
+    color: white;
+}
+
 .color4 {
     background-color: green;
 }
-*/
 
 .color5 {
     background-color: gray;
